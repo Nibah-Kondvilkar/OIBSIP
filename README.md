@@ -35,6 +35,13 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nibah-Kondvilkar/OIBSIP.git
-   cd OIBSIP
-2. Navigate to the desired project folder inside Level1.
-3. Open the index.html file in your browser to view the project.
+   
+2.After cloning, navigate into the repository folder:  
+cd OIBSIP
+
+3.Open the Level1 folder and choose any of the task folders to explore:  
+Task1-Landing Page  
+Task2-Portfolio   
+Task3-Temp Converter   
+
+4.Open the index.html file in your browser to view the project.
