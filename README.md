@@ -34,6 +34,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OIBSIP.git
+   git clone https://github.com/Nibah-Kondvilkar/OIBSIP.git
+   cd OIBSIP
 2. Navigate to the desired project folder inside Level1.
 3. Open the index.html file in your browser to view the project.
