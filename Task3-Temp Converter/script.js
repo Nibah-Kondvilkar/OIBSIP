@@ -6,7 +6,7 @@ function convertTemperature() {
 
 
     if (isNaN(tempInput)) {
-        resultElement.textContent = "Please enter a valid number!";
+        resultElement.textContent = "Please Enter a valid number!";
         return;
     }
  
